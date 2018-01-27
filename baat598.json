@@ -1,0 +1,31 @@
+{
+    "username": "baat598@radiibots.com",
+    "authtoken": "",
+    "RName": "changethis",
+    "transS": "radii@striker.space",
+    "transC": "441969f44a77405884a769b482206a81",
+    "squadName":"bots",
+    "startup": "",
+    "computername": "bots",
+    "version":"0.2",
+    "DueDate": 0,
+    "log":"",
+    "groups": {
+        "creator": [{
+            "name": "Radii",
+            "id": "uac80ff6d70b46dbd1cebee9ad1ab7d85"
+        }, {
+            "name": "Ladefoged",
+            "id": "ub2179c2365d56aa9094b822160b5d046"
+        }],
+        "owner": [],
+        "admin": [],
+        "staff": [],
+        "bot": [],
+        "ban": []
+    },
+    "password": "high1312",
+    "grouproom": [],
+    "backups":[],
+    "lineCert": "andi/.baat598.crt"
+}
